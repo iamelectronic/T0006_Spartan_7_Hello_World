@@ -125,7 +125,7 @@ set_property PACKAGE_PIN J12      [get_ports PE20];
 set_property PACKAGE_PIN J13      [get_ports PE23];
 set_property PACKAGE_PIN J14      [get_ports PE24];
 set_property PACKAGE_PIN M13      [get_ports PE25];
-set_property PACKAGE_PIN M14      [get_ports PE26];
+set_property PACKAGE_PIN L14      [get_ports PE26];
 set_property PACKAGE_PIN L12      [get_ports PE27];
 set_property PACKAGE_PIN L13      [get_ports PE28];
 set_property PACKAGE_PIN N14      [get_ports PE29];
